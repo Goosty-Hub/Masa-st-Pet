@@ -4,3 +4,10 @@
    Çalıştırman gereken dosya "main.py"*
 
    Programda lag ve hatalar olabilir.En kısa zamanda düzeltilecektir.
+    *DİKKAT
+     İndirmeniz gerekenler;
+    "python --version"
+    "pip install pillow"
+    
+
+
